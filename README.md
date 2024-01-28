@@ -1,6 +1,6 @@
 
 # About
-A system that secures a user's access to files stored in a server.
+A File-Retrieval System that ensures the secure retrieval of sensitive content from a file-server. This system provides a robust and efficient way to retrieve files securely.
 
 # Key Feature
 * Symmetric encryption is used to secure the retrival and viewing of file content. 
