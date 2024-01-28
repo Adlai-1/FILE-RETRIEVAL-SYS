@@ -9,3 +9,9 @@ A File-Retrieval System that ensures the secure retrieval of sensitive content f
 * Python.
 * Socket (Python module).
 * Cryptography (Python module).
+
+# Installation
+* Clone this repo.
+* Ensure you have a Python version installed
+* Run the Server.py file to boot the server.
+* Run the Client.py file.
