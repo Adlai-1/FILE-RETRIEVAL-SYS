@@ -6,6 +6,6 @@ A system that secures users access to files in a file-server.
 Symmetric encryption used to secure the retrival and viewing of file content. 
 
 # Tech Stack
-Python.
-Socket (Python module).
-Cryptography (Python module).
+* Python.
+* Socket (Python module).
+* Cryptography (Python module).
