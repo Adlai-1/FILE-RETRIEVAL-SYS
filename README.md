@@ -3,9 +3,7 @@
 A system that secures users access to files in a file-server.
 
 # Key Feature
-
-Secure File Retrieval 
-Employing cryptography, the system ensures the secure retrieval of files using symmetric encryption. 
+Symmetric encryption used to secure the retrival and viewing of file content. 
 
 # Tech Stack
 Python.
