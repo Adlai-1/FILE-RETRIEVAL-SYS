@@ -1,6 +1,6 @@
 
 # About
-A system that secures users access to files in a file-server.
+A system that secures a user's access to files stored in a server.
 
 # Key Feature
 * Symmetric encryption is used to secure the retrival and viewing of file content. 
